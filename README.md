@@ -6,6 +6,7 @@ from Tech With Tim YouTube channel.
 
 Built on python using Tkinter and pygame library.
 
+![Screencast from 30-05-21 10_43_30 AM IST](https://user-images.githubusercontent.com/55712612/120092999-d02cf700-c134-11eb-937e-6f3794417f8f.gif)
 
 
 
