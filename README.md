@@ -1,8 +1,7 @@
 # Visual implementation of A* path finding algorithm
 
 This project implements the A* searching algortihm by taking the starting and ending points as input from the user and then visually mark the shortest possible
-path between the two points. This project has been made by following the [A* Pathfinding Visualization Tutorial - Python A* Path Finding Tutorial](https://www.youtube.com/watch?v=JtiK0DOeI4A&list=PLzMcBGfZo4-kNEPqSOaglnUZz3D2R4OzY&index=3)
-from Tech With Tim YouTube channel.
+path between the two points.
 
 Built on python using Tkinter and pygame library.
 
